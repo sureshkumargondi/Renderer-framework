@@ -20,9 +20,6 @@ let package = Package(
     targets: [
         .binaryTarget(name: "Renderer",
                       url: "https://github.com/sureshkumargondi/Renderer-framework/releases/download/\(version)/Renderer.xcframework.zip",
-                      checksum: checksum),
-        .target(
-            name: "Renderer"
-        )
+                      checksum: checksum)
     ]
 )
