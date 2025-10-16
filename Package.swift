@@ -4,8 +4,8 @@
 
 import PackageDescription
 
-let version = "1.0.17"
-let checksum = "c5e5d9fce69573622d93519eb65c6adbf43323b4851f591bceb458175b6fd434"
+let version = "1.0.18"
+let checksum = "4046b8fc3158291da3625fb196513c0c824a188697cf724f3ea25c92e43b0568"
 
 let package = Package(
     name: "Renderer",
